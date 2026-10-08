@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer-main">
           <div className="footer-brand">
             <Link className="brand brand--footer" to="/">
-              <span className="brand__mark" aria-hidden="true">E</span>
+              <span className="brand__mark" aria-hidden="true"><svg viewBox="0 0 48 48" focusable="false"><path d="m9 25 3.2-8.1a4 4 0 0 1 3.7-2.5h16.2a4 4 0 0 1 3.7 2.5L39 25l2.2 2.1a3 3 0 0 1 .9 2.2v6.2a2 2 0 0 1-2 2h-2.4a3.7 3.7 0 0 1-7.3 0H17.6a3.7 3.7 0 0 1-7.3 0H8a2 2 0 0 1-2-2v-6.2a3 3 0 0 1 .9-2.2L9 25Zm4.2-.5h21.6l-2.2-5.6a1.1 1.1 0 0 0-1-.7H16.4a1.1 1.1 0 0 0-1 .7l-2.2 5.6ZM12 34.5a1.7 1.7 0 1 0 3.4 0 1.7 1.7 0 0 0-3.4 0Zm20.6 0a1.7 1.7 0 1 0 3.4 0 1.7 1.7 0 0 0-3.4 0ZM10 28v3h28v-3H10Z" fill="currentColor"/></svg></span>
               <span className="brand__text"><strong>Exclusive Injury</strong><small>LEADS</small></span>
             </Link>
             <p>Clear information to help you explore your next step.</p>
